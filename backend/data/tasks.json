@@ -1,0 +1,29 @@
+[
+  {
+    "id": "54c835a1-1865-423d-bbd9-7f28dc4ebd1b",
+    "userId": "68811616-dd7d-4585-8cb3-e681c846f073",
+    "title": "Do homework",
+    "description": "Need to complete the beat maker website within 5 hours",
+    "status": "pending",
+    "dueDate": "2025-06-21T22:08",
+    "createdAt": "2025-06-21T11:33:02.959Z"
+  },
+  {
+    "id": "0e17429a-8b59-4394-a8c2-2adfbebf81f3",
+    "userId": "68811616-dd7d-4585-8cb3-e681c846f073",
+    "title": "Breakfast",
+    "description": "need to cook breakfast ",
+    "status": "pending",
+    "dueDate": "2025-06-21T20:30",
+    "createdAt": "2025-06-21T12:07:17.639Z"
+  },
+  {
+    "id": "62973754-0a2a-49b8-90ad-d22f90270e13",
+    "userId": "e0feaafe-8bb9-428b-a420-df445e437fe1",
+    "title": "Cooking lunch",
+    "description": "Need to cook fried chicken and pasta",
+    "status": "pending",
+    "dueDate": "2025-06-22T03:10",
+    "createdAt": "2025-06-21T12:16:37.481Z"
+  }
+]

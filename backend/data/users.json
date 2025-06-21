@@ -1,0 +1,19 @@
+[
+  {
+    "id": "68811616-dd7d-4585-8cb3-e681c846f073",
+    "name": "Rishant",
+    "email": "rishantvik@gmai.com",
+    "password": "$2a$10$IkfINUrdFgtEcsBjzBWabuee0YF7DxnztjDzJKjpCPi914ow7JAq6",
+    "subscribedToEmails": true,
+    "emailVerificationToken": "955b2258d958549e26adc26c0f2b1d5838598a594e690d278f48952a16ffcbf7",
+    "isEmailVerified": false
+  },
+  {
+    "id": "e0feaafe-8bb9-428b-a420-df445e437fe1",
+    "name": "Campher",
+    "email": "camphercit@gmail.com",
+    "password": "$2a$10$yDOCDSM6pdIHiO78jSOF/e5x4ypChdm/YLeM5.wato677.otgfxyW",
+    "subscribedToEmails": true,
+    "emailVerificationToken": null
+  }
+]
